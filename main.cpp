@@ -4,6 +4,13 @@ using namespace std;
 
 int main () {
 	
+	/*
+	
+	ATENCION YULI TIENE QUE HACER QUE SE GUARDE MATERIA PRIMA, SOLO FIJISES
+	PORQUE NO SE ESTA GUARDANDO BIEN, SEGURO ES ALGO QUE ESTA MAL PUESTO
+	PERO SI CHOFER SE PUEDE MATERIA TAMBIEN, TEQUIERO MUCHA SUERTE ME VOY A COMER
+	
+	*/
 	Comercio* comercio = new Comercio();
 	int opc = 0, a = 0;
 	string nombreProvedor, nombreChofer, nombreRuta, nombreMateria;
